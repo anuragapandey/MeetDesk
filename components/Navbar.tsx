@@ -16,9 +16,32 @@ const Navbar = () => {
           className="max-sm:size-10"
         />
         <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-          YOOM
+          DHOOM
         </p>
       </Link>
+
+     <div className='flex gap-2'>
+
+      <div className='flex gap-5 text-white '>
+
+        <Link href="./#how-it-works">
+        <p>How it works</p>
+        </Link>
+
+        <Link href="/personal-room">
+        <p>personal room</p>
+        </Link>
+
+        <Link href="./#contact-us">
+        <p>contact us</p>
+        </Link>
+
+        <Link href="./#support-faq">
+        <p>Support & FAQ</p>
+        </Link>
+
+      </div>
+
       <div className="flex-between gap-5">
         <SignedIn>
           <UserButton afterSignOutUrl="/sign-in" />
@@ -26,6 +49,8 @@ const Navbar = () => {
 
         <MobileNav />
       </div>
+
+     </div>
     </nav>
   );
 };
