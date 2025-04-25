@@ -25,6 +25,11 @@ export const sidebarLinks = [
     route: '/personal-room',
     label: 'Personal Room',
   },
+  {
+    imgURL: '/icons/logo_icon.svg',
+    route: '/deepSeek',
+    label: 'DeepSeek',
+  },
 ];
 
 export const avatarImages = [

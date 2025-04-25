@@ -109,19 +109,19 @@ const Dashboard = () => {
       <footer className='w-full' >
   <div className="mt-6 px-4 py-3 bg-[#045452] w-[100%] flex justify-between items-center min-h-25">
         <div className="flex justify-center space-x-6">
-          <a href="https://www.facebook.com/Anirudhakolay/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-600 text-2xl">
+          <a href="https://www.facebook.com/share/16DYehaTYu/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-600 text-2xl">
             <FaFacebook />
           </a>
-          <a href="https://github.com/AmandeepGuggi" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-600 text-2xl">
+          <a href="https://github.com/anuragapandey" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-600 text-2xl">
             <FaGithub />
           </a>
-          <a href="https://x.com/anirudha_kolay" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:text-blue-500 text-2xl">
+          <a href="https://x.com/a2_pandey" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:text-blue-500 text-2xl">
             <FaTwitter />
           </a>
-          <a href="https://www.instagram.com/anirudha_kolay/" target="_blank" rel="noopener noreferrer" className="text-pink-400 hover:text-pink-600 text-2xl">
+          <a href="https://www.instagram.com/a2_pandey/" target="_blank" rel="noopener noreferrer" className="text-pink-400 hover:text-pink-600 text-2xl">
             <FaInstagram />
           </a>
-          <a href="https://www.linkedin.com/in/amandeep-guggi-a128a6347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700 text-2xl">
+          <a href="https://www.linkedin.com/in/anurag-pandey-766218267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700 text-2xl">
             <FaLinkedin />
           </a>
         </div>
@@ -130,27 +130,27 @@ const Dashboard = () => {
       <div className="bg-[#073C3B] px-3 ">
       <div className="p-6  rounded-xl  w-full  text-center">
         <h2 className="text-2xl font-semibold mb-2">👨‍💻 Meet the Team</h2>
-        <p className="text-gray-400 mb-4">Built with ❤️ by a passionate team of developers & blockchain enthusiasts.</p>
+        <p className="text-gray-400 mb-4">Built with ❤️ by a passionate team of developers & backend enthusiasts.</p>
         
         <div className="flex justify-center gap-1 md:flex-nowrap flex-wrap space-x-6">
           <div className="text-center">
             <img src="https://img.freepik.com/free-vector/cute-man-working-laptop-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated_138676-9123.jpg" alt="Founder" className="w-20 h-20 rounded-full mx-auto mb-2" />
-            <p className="text-white font-semibold">Krushna Mane</p>
-            <p className="text-gray-400 text-sm">Blockchain Engineer</p>
+            <p className="text-white font-semibold">Nikhil Sharma</p>
+            <p className="text-gray-400 text-sm">Backend Engineer</p>
           </div>
           <div className="text-center">
             <img src="https://img.freepik.com/free-vector/cute-man-working-laptop-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated_138676-9123.jpg" alt="Founder" className="w-20 h-20 rounded-full mx-auto mb-2" />
-            <p className="text-white font-semibold">Anirudha Kolay</p>
-            <p className="text-gray-400 text-sm">Blockchain Operator & Documentation Lead</p>
+            <p className="text-white font-semibold">karan Bhabhoriya</p>
+            <p className="text-gray-400 text-sm">Frontend Operator & Documentation Lead</p>
           </div>
           <div className="text-center">
             <img src="https://img.freepik.com/free-vector/cute-man-working-laptop-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated_138676-9123.jpg" alt="Co-Founder" className="w-20 h-20 rounded-full mx-auto mb-2" />
-            <p className="text-white font-semibold">Kartik Salunkhe</p>
+            <p className="text-white font-semibold">Nayan chaudhari</p>
             <p className="text-gray-400 text-sm">Presentation & Visual Designer</p>
           </div>
           <div className="text-center mr-6">
             <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg" alt="UI Designer" className="w-20 h-20 rounded-full mx-auto mb-2" />
-            <p className="text-white font-semibold">Amandeep Guggi</p>
+            <p className="text-white font-semibold">Anurag Pandey</p>
             <p className="text-gray-400 text-sm">Frontend & UI/UX Developer</p>
           </div>
         </div>
